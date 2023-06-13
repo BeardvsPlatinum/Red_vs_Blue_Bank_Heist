@@ -1,0 +1,45 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "Gun_Game_1",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"attributions": [],
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "25.00",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "Gun_Game_1",
+			"bIsRoot": true,
+			"bIsPublic": false,
+			"bEnabled": true
+		}
+	],
+	"dependencies": [],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 40,
+			"maxTeamCount": 2,
+			"maxTeamSize": 40,
+			"maxSocialPartySize": 40,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": true,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "3a7ee4b2-4fc1-a8d8-0641-bb86eae6d6a1",
+		"modules":
+		{
+			"Gun_Game_1": "aebab606-41c6-3bce-bafd-12801553e592"
+		}
+	}
+}
